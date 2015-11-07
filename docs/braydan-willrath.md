@@ -1,7 +1,7 @@
 #Bio of Contributors
 
 ###Braydan Willrath
-**Name:** Braydan Willrath
-**Location:** Australia
-**Favourite Food:** Curried Eggs
-**Hobbies:** Cloud Products
+**Name:** Braydan Willrath<br>
+**Location:** Australia<br>
+**Favourite Food:** Curried Eggs<br>
+**Hobbies:** Cloud Products<br>
