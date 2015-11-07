@@ -1,6 +1,6 @@
-###Bio of Contributors
+#Bio of Contributors
 
-#Braydan Willrath
+###Braydan Willrath
 **Name:** Braydan Willrath
 **Location:** Australia
 **Favourite Food:** Curried Eggs
