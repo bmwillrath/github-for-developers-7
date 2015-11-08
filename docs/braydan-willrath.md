@@ -6,3 +6,4 @@
 **Favourite Food:** Curried Eggs<br>
 **Hobbies:** Cloud Products<br>
 **Favourite Colour:** Orange<br>
+**Favourite Letter:** B<br>
