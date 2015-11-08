@@ -7,3 +7,4 @@
 **Hobbies:** Cloud Products<br>
 **Favourite Colour:** Orange<br>
 **Favourite Letter:** B<br>
+**Life Goal:** Be Cool<br>
